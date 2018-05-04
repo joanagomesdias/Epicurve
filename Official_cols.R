@@ -2,7 +2,7 @@
 # So far only greens and qualitative colours, blues (and reds) to be added
 
 # "greens"
-  gscale2 <- c(rgb(32,119,50, maxColorValue = 255), rgb(178,207,110, maxColorValue = 255)) 
+  gscale2 <- c(rgb(32,119,50, maxColorValue = 255), rgb(178,207,110, maxColorValue = 300)) 
   gscale3 <- c(rgb(26,110,49, maxColorValue = 255), rgb(101,179,46, maxColorValue = 255),
                rgb(201,217,113, maxColorValue = 255)) 
   gscale4 <- c(rgb(26,110,49, maxColorValue = 255), rgb(40,147,55, maxColorValue = 255),
